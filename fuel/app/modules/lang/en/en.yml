@@ -1,0 +1,8 @@
+key:
+	result_data:data
+	result_cd:result_cd
+	result_message:message
+error_cd:
+	common:
+		success:"000"
+		system_error:"999"
